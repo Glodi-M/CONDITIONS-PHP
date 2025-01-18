@@ -5,7 +5,7 @@ $action = (int)readline("Enter the action: 1. Attaquer, 2. Défendre, 3. Passer 
 // Avec un switch
 switch($action){
     case 1:
-        echo 'J\'attaqye';
+        echo 'J\'attaque';
         break;
     case 2:
         echo 'Je défends';
